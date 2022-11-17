@@ -30,12 +30,14 @@ class _HomePageState extends State<HomePage> {
               color: Colors.white,
               fontSize: 24,
             ),
-            sliderRotate: false,
             onSubmit: () {
             },
           ),
         ),
       ),
     );
+
+
+
   }
 }
